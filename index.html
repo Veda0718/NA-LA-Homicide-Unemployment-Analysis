@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./libs/d3.js"></script>
+    <script src="libs/d3jstopojson.v1.js"></script>
+    <script src="./libs/echarts.js"></script>
+    <title>DSC530_Project</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+
+</head>
+
+<body style="background-color: lightcyan;">
+    
+    <div class="container">
+        <div class="main" style = "width: 90vw; height: 80vh;">
+        <h1 align="center">Homicide and Unemployment in North America and Latin America: A Comparative Analysis</h1>
+        <!-- <h3 align="center">Geospatial Map for Homicides</h3> -->
+        <div class="fig1" style = "background-color: lightcyan;">
+            
+            <div id="year-dropdown-container">
+                <label for="year-dropdown">Select Year: </label>
+                <select id="year-dropdown"></select>
+            </div>
+            <div class="legend-area"></div>
+        
+        </div>
+        </div>
+
+        <div id="tooltip"></div>
+        <div id="tooltip2"></div>
+        <div class="fig2"></div>
+        <div class="chart" id="scatterChart" style="height: 600px; width:1350px"></div>
+    </div>
+    <div class="chart-container">
+
+        <div class="chart" id="chart1"></div>
+        
+        <div class="chart" id="chart2"></div>
+    </div>
+</body>
+
+</html>
