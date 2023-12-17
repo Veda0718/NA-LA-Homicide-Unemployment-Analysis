@@ -1,0 +1,869 @@
+,Entity,Region,Year,unemployment_rate,homicide_rate
+0,Brazil,Latin America & Caribbean,1991,6.366,18.357327
+1,Brazil,Latin America & Caribbean,1992,6.42,16.656002
+2,Brazil,Latin America & Caribbean,1993,6.03,17.680256
+3,Brazil,Latin America & Caribbean,1994,6.47,18.543499
+4,Brazil,Latin America & Caribbean,1995,7.09,20.793213
+5,Brazil,Latin America & Caribbean,1996,8.03,23.424883
+6,Brazil,Latin America & Caribbean,1997,9.0,24.0331
+7,Brazil,Latin America & Caribbean,1998,10.15,24.526455
+8,Brazil,Latin America & Caribbean,1999,11.13,24.73625
+9,Brazil,Latin America & Caribbean,2000,10.53,25.79976
+10,Brazil,Latin America & Caribbean,2001,10.65,26.90898
+11,Brazil,Latin America & Caribbean,2002,10.64,27.543724
+12,Brazil,Latin America & Caribbean,2003,11.17,27.960468
+13,Brazil,Latin America & Caribbean,2004,10.07,26.19828
+14,Brazil,Latin America & Caribbean,2005,10.55,25.478415
+15,Brazil,Latin America & Caribbean,2006,9.69,26.037931
+16,Brazil,Latin America & Caribbean,2007,9.28,25.018942
+17,Brazil,Latin America & Caribbean,2008,8.27,26.020863
+18,Brazil,Latin America & Caribbean,2009,9.42,26.455711
+19,Brazil,Latin America & Caribbean,2010,8.034,26.630033
+20,Brazil,Latin America & Caribbean,2011,7.58,26.355639
+21,Brazil,Latin America & Caribbean,2012,7.25,28.197144
+22,Brazil,Latin America & Caribbean,2013,7.07,28.179903
+23,Brazil,Latin America & Caribbean,2014,6.76,29.358646
+24,Brazil,Latin America & Caribbean,2015,8.56,28.356405
+25,Brazil,Latin America & Caribbean,2016,11.74,29.589155
+26,Brazil,Latin America & Caribbean,2017,12.93,30.593037
+27,Brazil,Latin America & Caribbean,2018,12.46,26.636013
+28,Brazil,Latin America & Caribbean,2019,12.05,20.810465
+29,Brazil,Latin America & Caribbean,2020,13.93,22.384066
+30,Brazil,Latin America & Caribbean,2021,0.0,0.0
+31,Barbados,Latin America & Caribbean,1991,22.683,8.095543
+32,Barbados,Latin America & Caribbean,1992,22.94,8.454628
+33,Barbados,Latin America & Caribbean,1993,24.54,8.046116
+34,Barbados,Latin America & Caribbean,1994,22.98,7.6420026
+35,Barbados,Latin America & Caribbean,1995,19.66,6.481042
+36,Barbados,Latin America & Caribbean,1996,0.0,0.0
+37,Barbados,Latin America & Caribbean,1997,0.0,0.0
+38,Barbados,Latin America & Caribbean,1998,12.4,7.586059
+39,Barbados,Latin America & Caribbean,1999,10.61,8.706532
+40,Barbados,Latin America & Caribbean,2000,9.35,7.556951
+41,Barbados,Latin America & Caribbean,2001,9.85,9.420578
+42,Barbados,Latin America & Caribbean,2002,10.32,9.382447
+43,Barbados,Latin America & Caribbean,2003,11.0,12.336494
+44,Barbados,Latin America & Caribbean,2004,9.57,8.193516
+45,Barbados,Latin America & Caribbean,2005,9.08,10.761586
+46,Barbados,Latin America & Caribbean,2006,8.73,12.942567
+47,Barbados,Latin America & Caribbean,2007,7.41,9.210003
+48,Barbados,Latin America & Caribbean,2008,8.12,8.4361725
+49,Barbados,Latin America & Caribbean,2009,10.02,6.939587
+50,Barbados,Latin America & Caribbean,2010,10.69,11.284586
+51,Barbados,Latin America & Caribbean,2011,11.19,9.800843
+52,Barbados,Latin America & Caribbean,2012,11.59,7.965315
+53,Barbados,Latin America & Caribbean,2013,11.55,8.668485
+54,Barbados,Latin America & Caribbean,2014,12.17,9.009236
+55,Barbados,Latin America & Caribbean,2015,9.8,11.147751
+56,Barbados,Latin America & Caribbean,2016,8.25,7.8952374
+57,Barbados,Latin America & Caribbean,2017,8.62,10.745486
+58,Barbados,Latin America & Caribbean,2018,8.32,10.011137
+59,Barbados,Latin America & Caribbean,2019,8.41,17.131874
+60,Barbados,Latin America & Caribbean,2020,10.105,14.606706
+61,Barbados,Latin America & Caribbean,2021,9.582,11.379821
+62,Canada,North America,1991,10.32,2.6913424
+63,Canada,North America,1992,11.2,2.5857532
+64,Canada,North America,1993,11.38,2.1836066
+65,Canada,North America,1994,10.4,2.0565064
+66,Canada,North America,1995,9.49,2.0041366
+67,Canada,North America,1996,9.62,2.142337
+68,Canada,North America,1997,9.1,1.9609975
+69,Canada,North America,1998,8.28,1.8543822
+70,Canada,North America,1999,7.58,1.7730393
+71,Canada,North America,2000,6.83,1.7794689
+72,Canada,North America,2001,7.22,1.7869376
+73,Canada,North America,2002,7.66,1.8580953
+74,Canada,North America,2003,7.57,1.736273
+75,Canada,North America,2004,7.19,1.9585313
+76,Canada,North America,2005,6.76,2.061093
+77,Canada,North America,2006,6.32,1.8689367
+78,Canada,North America,2007,6.04,1.8166627
+79,Canada,North America,2008,6.14,1.8483654
+80,Canada,North America,2009,8.34,1.815805
+81,Canada,North America,2010,8.06,1.6400001
+82,Canada,North America,2011,7.51,1.774293
+83,Canada,North America,2012,7.29,1.582503
+84,Canada,North America,2013,7.07,1.4516441
+85,Canada,North America,2014,6.91,1.4828578
+86,Canada,North America,2015,6.91,1.7099458
+87,Canada,North America,2016,7.0,1.7057317
+88,Canada,North America,2017,6.34,1.8192091
+89,Canada,North America,2018,5.83,1.7874861
+90,Canada,North America,2019,5.66,1.8362274
+91,Canada,North America,2020,9.46,2.0032356
+92,Canada,North America,2021,7.46,2.0652595
+93,Colombia,Latin America & Caribbean,1991,10.12,85.42758
+94,Colombia,Latin America & Caribbean,1992,9.44,83.043015
+95,Colombia,Latin America & Caribbean,1993,7.8,82.16443
+96,Colombia,Latin America & Caribbean,1994,8.25,76.72092
+97,Colombia,Latin America & Caribbean,1995,8.72,62.054317
+98,Colombia,Latin America & Caribbean,1996,11.81,63.741085
+99,Colombia,Latin America & Caribbean,1997,12.14,62.211826
+100,Colombia,Latin America & Caribbean,1998,15.0,60.849537
+101,Colombia,Latin America & Caribbean,1999,20.06,63.12033
+102,Colombia,Latin America & Caribbean,2000,20.52,67.6754
+103,Colombia,Latin America & Caribbean,2001,15.04,69.88325
+104,Colombia,Latin America & Caribbean,2002,15.63,70.170975
+105,Colombia,Latin America & Caribbean,2003,14.19,57.29256
+106,Colombia,Latin America & Caribbean,2004,13.72,48.525425
+107,Colombia,Latin America & Caribbean,2005,11.87,42.895775
+108,Colombia,Latin America & Caribbean,2006,10.963,40.86465
+109,Colombia,Latin America & Caribbean,2007,10.25,39.712208
+110,Colombia,Latin America & Caribbean,2008,10.52,36.836437
+111,Colombia,Latin America & Caribbean,2009,11.32,35.693077
+112,Colombia,Latin America & Caribbean,2010,10.98,34.494293
+113,Colombia,Latin America & Caribbean,2011,10.11,35.59345
+114,Colombia,Latin America & Caribbean,2012,9.74,35.90898
+115,Colombia,Latin America & Caribbean,2013,9.05,33.35357
+116,Colombia,Latin America & Caribbean,2014,8.57,28.585234
+117,Colombia,Latin America & Caribbean,2015,8.3,27.128765
+118,Colombia,Latin America & Caribbean,2016,8.69,26.040422
+119,Colombia,Latin America & Caribbean,2017,8.87,25.434488
+120,Colombia,Latin America & Caribbean,2018,9.11,26.231325
+121,Colombia,Latin America & Caribbean,2019,9.96,25.753473
+122,Colombia,Latin America & Caribbean,2020,15.04,24.242764
+123,Colombia,Latin America & Caribbean,2021,13.9,27.484365
+124,Costa Rica,Latin America & Caribbean,1991,5.37,4.0748105
+125,Costa Rica,Latin America & Caribbean,1992,3.93,4.8164635
+126,Costa Rica,Latin America & Caribbean,1993,3.95,4.6984587
+127,Costa Rica,Latin America & Caribbean,1994,4.05,5.216167
+128,Costa Rica,Latin America & Caribbean,1995,5.18,5.1499414
+129,Costa Rica,Latin America & Caribbean,1996,6.16,5.1692533
+130,Costa Rica,Latin America & Caribbean,1997,5.68,5.615842
+131,Costa Rica,Latin America & Caribbean,1998,5.33,5.861693
+132,Costa Rica,Latin America & Caribbean,1999,5.9,6.279749
+133,Costa Rica,Latin America & Caribbean,2000,5.08,6.257551
+134,Costa Rica,Latin America & Caribbean,2001,5.92,6.340634
+135,Costa Rica,Latin America & Caribbean,2002,6.33,6.2581515
+136,Costa Rica,Latin America & Caribbean,2003,6.56,7.1622796
+137,Costa Rica,Latin America & Caribbean,2004,6.39,6.5838985
+138,Costa Rica,Latin America & Caribbean,2005,6.57,7.7620196
+139,Costa Rica,Latin America & Caribbean,2006,5.74,8.017045
+140,Costa Rica,Latin America & Caribbean,2007,4.49,8.310775
+141,Costa Rica,Latin America & Caribbean,2008,4.78,11.372923
+142,Costa Rica,Latin America & Caribbean,2009,7.71,11.505267
+143,Costa Rica,Latin America & Caribbean,2010,7.17,11.40137
+144,Costa Rica,Latin America & Caribbean,2011,9.52,10.128365
+145,Costa Rica,Latin America & Caribbean,2012,9.11,8.592673
+146,Costa Rica,Latin America & Caribbean,2013,8.22,8.577627
+147,Costa Rica,Latin America & Caribbean,2014,8.5,9.846647
+148,Costa Rica,Latin America & Caribbean,2015,8.42,11.378396
+149,Costa Rica,Latin America & Caribbean,2016,8.09,11.688089
+150,Costa Rica,Latin America & Caribbean,2017,7.73,12.074873
+151,Costa Rica,Latin America & Caribbean,2018,9.01,11.605453
+152,Costa Rica,Latin America & Caribbean,2019,10.81,11.0728
+153,Costa Rica,Latin America & Caribbean,2020,16.43,11.126065
+154,Costa Rica,Latin America & Caribbean,2021,15.14,11.40871
+155,Dominican Republic,Latin America & Caribbean,1991,6.431,12.4752655
+156,Dominican Republic,Latin America & Caribbean,1992,6.294,10.865263
+157,Dominican Republic,Latin America & Caribbean,1993,6.343,12.275487
+158,Dominican Republic,Latin America & Caribbean,1994,6.413,13.011504
+159,Dominican Republic,Latin America & Caribbean,1995,6.379,12.795827
+160,Dominican Republic,Latin America & Caribbean,1996,6.383,12.880175
+161,Dominican Republic,Latin America & Caribbean,1997,6.352,12.736077
+162,Dominican Republic,Latin America & Caribbean,1998,6.388,13.535172
+163,Dominican Republic,Latin America & Caribbean,1999,6.405,12.673316
+164,Dominican Republic,Latin America & Caribbean,2000,6.43,14.167305
+165,Dominican Republic,Latin America & Caribbean,2001,7.26,12.631157
+166,Dominican Republic,Latin America & Caribbean,2002,6.78,14.542187
+167,Dominican Republic,Latin America & Caribbean,2003,6.94,21.323223
+168,Dominican Republic,Latin America & Caribbean,2004,6.3,24.759134
+169,Dominican Republic,Latin America & Caribbean,2005,6.59,26.121775
+170,Dominican Republic,Latin America & Caribbean,2006,5.65,23.093077
+171,Dominican Republic,Latin America & Caribbean,2007,5.16,22.452177
+172,Dominican Republic,Latin America & Caribbean,2008,4.76,25.139275
+173,Dominican Republic,Latin America & Caribbean,2009,5.47,24.616344
+174,Dominican Republic,Latin America & Caribbean,2010,5.21,25.307508
+175,Dominican Republic,Latin America & Caribbean,2011,6.09,25.37426
+176,Dominican Republic,Latin America & Caribbean,2012,6.72,22.610174
+177,Dominican Republic,Latin America & Caribbean,2013,7.35,19.474157
+178,Dominican Republic,Latin America & Caribbean,2014,6.72,17.603382
+179,Dominican Republic,Latin America & Caribbean,2015,0.0,0.0
+180,Dominican Republic,Latin America & Caribbean,2016,7.28,15.35014
+181,Dominican Republic,Latin America & Caribbean,2017,5.83,11.420795
+182,Dominican Republic,Latin America & Caribbean,2018,5.86,9.920551
+183,Dominican Republic,Latin America & Caribbean,2019,6.18,9.428515
+184,Dominican Republic,Latin America & Caribbean,2020,6.13,8.73663
+185,Dominican Republic,Latin America & Caribbean,2021,7.7,10.541584
+186,Ecuador,Latin America & Caribbean,1991,4.439,10.789536
+187,Ecuador,Latin America & Caribbean,1992,4.589,8.566804
+188,Ecuador,Latin America & Caribbean,1993,4.615,8.317742
+189,Ecuador,Latin America & Caribbean,1994,4.49,10.037319
+190,Ecuador,Latin America & Caribbean,1995,4.632,11.867914
+191,Ecuador,Latin America & Caribbean,1996,4.683,12.421422
+192,Ecuador,Latin America & Caribbean,1997,4.538,10.982498
+193,Ecuador,Latin America & Caribbean,1998,4.622,13.46585
+194,Ecuador,Latin America & Caribbean,1999,5.189,13.551352
+195,Ecuador,Latin America & Caribbean,2000,4.8,14.517079
+196,Ecuador,Latin America & Caribbean,2001,4.25,12.907223
+197,Ecuador,Latin America & Caribbean,2002,4.899,14.582335
+198,Ecuador,Latin America & Caribbean,2003,0.0,0.0
+199,Ecuador,Latin America & Caribbean,2004,0.0,0.0
+200,Ecuador,Latin America & Caribbean,2005,0.0,0.0
+201,Ecuador,Latin America & Caribbean,2006,0.0,0.0
+202,Ecuador,Latin America & Caribbean,2007,3.14,15.948823
+203,Ecuador,Latin America & Caribbean,2008,3.92,17.983282
+204,Ecuador,Latin America & Caribbean,2009,4.61,17.805342
+205,Ecuador,Latin America & Caribbean,2010,4.09,17.505487
+206,Ecuador,Latin America & Caribbean,2011,3.46,15.376308
+207,Ecuador,Latin America & Caribbean,2012,3.23,12.412907
+208,Ecuador,Latin America & Caribbean,2013,3.08,10.971196
+209,Ecuador,Latin America & Caribbean,2014,3.48,8.209052
+210,Ecuador,Latin America & Caribbean,2015,3.62,6.4831214
+211,Ecuador,Latin America & Caribbean,2016,4.6,5.8334804
+212,Ecuador,Latin America & Caribbean,2017,3.84,5.8094463
+213,Ecuador,Latin America & Caribbean,2018,3.53,5.841674
+214,Ecuador,Latin America & Caribbean,2019,3.81,6.843968
+215,Ecuador,Latin America & Caribbean,2020,6.11,7.800509
+216,Ecuador,Latin America & Caribbean,2021,4.5,14.024255
+217,Guyana,Latin America & Caribbean,1991,11.954,25.803104
+218,Guyana,Latin America & Caribbean,1992,11.9,14.093998
+219,Guyana,Latin America & Caribbean,1993,11.873,15.658678
+220,Guyana,Latin America & Caribbean,1994,11.847,14.408722
+221,Guyana,Latin America & Caribbean,1995,11.884,14.500669
+222,Guyana,Latin America & Caribbean,1996,11.818,11.677739
+223,Guyana,Latin America & Caribbean,1997,11.827,11.519959
+224,Guyana,Latin America & Caribbean,1998,11.935,14.9333315
+225,Guyana,Latin America & Caribbean,1999,11.84,12.005055
+226,Guyana,Latin America & Caribbean,2000,11.89,10.012503
+227,Guyana,Latin America & Caribbean,2001,11.812,10.5289545
+228,Guyana,Latin America & Caribbean,2002,11.81,18.807783
+229,Guyana,Latin America & Caribbean,2003,11.576,27.479698
+230,Guyana,Latin America & Caribbean,2004,11.279,17.22722
+231,Guyana,Latin America & Caribbean,2005,11.027,18.691368
+232,Guyana,Latin America & Caribbean,2006,10.7,20.174915
+233,Guyana,Latin America & Caribbean,2007,10.943,15.201154
+234,Guyana,Latin America & Caribbean,2008,11.301,20.950739
+235,Guyana,Latin America & Caribbean,2009,11.538,15.573877
+236,Guyana,Latin America & Caribbean,2010,11.812,18.718292
+237,Guyana,Latin America & Caribbean,2011,12.058,17.467718
+238,Guyana,Latin America & Caribbean,2012,12.333,18.68365
+239,Guyana,Latin America & Caribbean,2013,12.64,20.737991
+240,Guyana,Latin America & Caribbean,2014,12.954,19.837175
+241,Guyana,Latin America & Caribbean,2015,13.252,19.73429
+242,Guyana,Latin America & Caribbean,2016,13.475,18.706684
+243,Guyana,Latin America & Caribbean,2017,13.757,15.067107
+244,Guyana,Latin America & Caribbean,2018,14.02,14.130875
+245,Guyana,Latin America & Caribbean,2019,13.52,17.02654
+246,Guyana,Latin America & Caribbean,2020,15.589,19.69388
+247,Guyana,Latin America & Caribbean,2021,14.905,16.28205
+248,Honduras,Latin America & Caribbean,1991,4.58,13.542591
+249,Honduras,Latin America & Caribbean,1992,3.06,17.86991
+250,Honduras,Latin America & Caribbean,1993,3.116,22.78623
+251,Honduras,Latin America & Caribbean,1994,3.237,29.762339
+252,Honduras,Latin America & Caribbean,1995,3.24,26.389893
+253,Honduras,Latin America & Caribbean,1996,0.0,0.0
+254,Honduras,Latin America & Caribbean,1997,0.0,0.0
+255,Honduras,Latin America & Caribbean,1998,0.0,0.0
+256,Honduras,Latin America & Caribbean,1999,3.85,39.568558
+257,Honduras,Latin America & Caribbean,2000,3.855,47.71115
+258,Honduras,Latin America & Caribbean,2001,4.0,51.0101
+259,Honduras,Latin America & Caribbean,2002,4.02,51.610367
+260,Honduras,Latin America & Caribbean,2003,5.3,56.554672
+261,Honduras,Latin America & Caribbean,2004,5.99,49.286194
+262,Honduras,Latin America & Caribbean,2005,4.91,42.460865
+263,Honduras,Latin America & Caribbean,2006,3.57,40.25719
+264,Honduras,Latin America & Caribbean,2007,3.21,45.277523
+265,Honduras,Latin America & Caribbean,2008,3.16,54.987938
+266,Honduras,Latin America & Caribbean,2009,3.29,63.7889
+267,Honduras,Latin America & Caribbean,2010,4.12,73.79067
+268,Honduras,Latin America & Caribbean,2011,4.47,82.38905
+269,Honduras,Latin America & Caribbean,2012,3.75,81.570755
+270,Honduras,Latin America & Caribbean,2013,5.65,71.769295
+271,Honduras,Latin America & Caribbean,2014,7.08,64.53877
+272,Honduras,Latin America & Caribbean,2015,6.15,55.38756
+273,Honduras,Latin America & Caribbean,2016,6.73,54.435158
+274,Honduras,Latin America & Caribbean,2017,5.53,40.13777
+275,Honduras,Latin America & Caribbean,2018,5.62,37.874573
+276,Honduras,Latin America & Caribbean,2019,5.55,40.94859
+277,Honduras,Latin America & Caribbean,2020,10.68,35.695362
+278,Honduras,Latin America & Caribbean,2021,7.947,38.245457
+279,Jamaica,Latin America & Caribbean,1991,7.188,23.467297
+280,Jamaica,Latin America & Caribbean,1992,7.204,25.959368
+281,Jamaica,Latin America & Caribbean,1993,7.058,26.717505
+282,Jamaica,Latin America & Caribbean,1994,7.153,27.856258
+283,Jamaica,Latin America & Caribbean,1995,7.106,31.083475
+284,Jamaica,Latin America & Caribbean,1996,7.113,36.51949
+285,Jamaica,Latin America & Caribbean,1997,7.095,40.626945
+286,Jamaica,Latin America & Caribbean,1998,7.08,33.338936
+287,Jamaica,Latin America & Caribbean,1999,6.993,32.893337
+288,Jamaica,Latin America & Caribbean,2000,6.959,33.955986
+289,Jamaica,Latin America & Caribbean,2001,6.915,43.383774
+290,Jamaica,Latin America & Caribbean,2002,6.868,39.609688
+291,Jamaica,Latin America & Caribbean,2003,6.804,36.7782
+292,Jamaica,Latin America & Caribbean,2004,6.8,55.21721
+293,Jamaica,Latin America & Caribbean,2005,6.767,62.535885
+294,Jamaica,Latin America & Caribbean,2006,6.698,49.820415
+295,Jamaica,Latin America & Caribbean,2007,6.679,58.64015
+296,Jamaica,Latin America & Caribbean,2008,6.67,59.711445
+297,Jamaica,Latin America & Caribbean,2009,7.31,61.82042
+298,Jamaica,Latin America & Caribbean,2010,7.63,52.928127
+299,Jamaica,Latin America & Caribbean,2011,8.03,41.25747
+300,Jamaica,Latin America & Caribbean,2012,8.69,39.930183
+301,Jamaica,Latin America & Caribbean,2013,9.7,43.34454
+302,Jamaica,Latin America & Caribbean,2014,9.05,36.0921
+303,Jamaica,Latin America & Caribbean,2015,8.842,43.264412
+304,Jamaica,Latin America & Caribbean,2016,8.63,48.310635
+305,Jamaica,Latin America & Caribbean,2017,7.4,58.646004
+306,Jamaica,Latin America & Caribbean,2018,5.47,45.84195
+307,Jamaica,Latin America & Caribbean,2019,4.99,47.62289
+308,Jamaica,Latin America & Caribbean,2020,6.5,47.262203
+309,Jamaica,Latin America & Caribbean,2021,6.011,52.127274
+310,Mexico,Latin America & Caribbean,1991,3.15,18.149622
+311,Mexico,Latin America & Caribbean,1992,3.24,19.523924
+312,Mexico,Latin America & Caribbean,1993,3.37,18.511583
+313,Mexico,Latin America & Caribbean,1994,4.44,17.934782
+314,Mexico,Latin America & Caribbean,1995,7.1,17.352533
+315,Mexico,Latin America & Caribbean,1996,5.47,15.837478
+316,Mexico,Latin America & Caribbean,1997,4.24,14.54341
+317,Mexico,Latin America & Caribbean,1998,3.73,14.410036
+318,Mexico,Latin America & Caribbean,1999,2.6,12.71503
+319,Mexico,Latin America & Caribbean,2000,2.65,10.970289
+320,Mexico,Latin America & Caribbean,2001,2.63,10.347677
+321,Mexico,Latin America & Caribbean,2002,3.0,9.9963255
+322,Mexico,Latin America & Caribbean,2003,3.46,9.847764
+323,Mexico,Latin America & Caribbean,2004,3.94,8.974869
+324,Mexico,Latin America & Caribbean,2005,3.56,9.408928
+325,Mexico,Latin America & Caribbean,2006,3.57,9.77857
+326,Mexico,Latin America & Caribbean,2007,3.63,8.187218
+327,Mexico,Latin America & Caribbean,2008,3.87,12.769354
+328,Mexico,Latin America & Caribbean,2009,5.36,17.8326
+329,Mexico,Latin America & Caribbean,2010,5.3,22.88852
+330,Mexico,Latin America & Caribbean,2011,5.17,23.839584
+331,Mexico,Latin America & Caribbean,2012,4.89,22.432549
+332,Mexico,Latin America & Caribbean,2013,4.91,19.663113
+333,Mexico,Latin America & Caribbean,2014,4.81,16.849691
+334,Mexico,Latin America & Caribbean,2015,4.31,17.28008
+335,Mexico,Latin America & Caribbean,2016,3.86,20.209972
+336,Mexico,Latin America & Caribbean,2017,3.42,26.114616
+337,Mexico,Latin America & Caribbean,2018,3.27,29.581371
+338,Mexico,Latin America & Caribbean,2019,3.48,29.308798
+339,Mexico,Latin America & Caribbean,2020,4.45,29.185314
+340,Mexico,Latin America & Caribbean,2021,4.09,28.175653
+341,Nicaragua,Latin America & Caribbean,1991,7.034,16.915901
+342,Nicaragua,Latin America & Caribbean,1992,7.069,18.657509
+343,Nicaragua,Latin America & Caribbean,1993,7.134,16.833498
+344,Nicaragua,Latin America & Caribbean,1994,7.106,15.674794
+345,Nicaragua,Latin America & Caribbean,1995,7.102,14.972694
+346,Nicaragua,Latin America & Caribbean,1996,7.141,13.756154
+347,Nicaragua,Latin America & Caribbean,1997,7.24,13.86857
+348,Nicaragua,Latin America & Caribbean,1998,7.296,12.845378
+349,Nicaragua,Latin America & Caribbean,1999,7.278,11.1091795
+350,Nicaragua,Latin America & Caribbean,2000,7.394,9.291027
+351,Nicaragua,Latin America & Caribbean,2001,7.474,10.341313
+352,Nicaragua,Latin America & Caribbean,2002,7.58,10.534311
+353,Nicaragua,Latin America & Caribbean,2003,7.6,11.929224
+354,Nicaragua,Latin America & Caribbean,2004,6.41,11.993562
+355,Nicaragua,Latin America & Caribbean,2005,5.37,13.3646755
+356,Nicaragua,Latin America & Caribbean,2006,5.31,13.056503
+357,Nicaragua,Latin America & Caribbean,2007,4.89,12.733052
+358,Nicaragua,Latin America & Caribbean,2008,6.2,12.9401045
+359,Nicaragua,Latin America & Caribbean,2009,8.16,13.897943
+360,Nicaragua,Latin America & Caribbean,2010,7.83,13.405664
+361,Nicaragua,Latin America & Caribbean,2011,6.499,12.418905
+362,Nicaragua,Latin America & Caribbean,2012,5.21,11.159739
+363,Nicaragua,Latin America & Caribbean,2013,5.28,9.706867
+364,Nicaragua,Latin America & Caribbean,2014,4.52,8.45591
+365,Nicaragua,Latin America & Caribbean,2015,4.7,8.319312
+366,Nicaragua,Latin America & Caribbean,2016,3.9,7.0900507
+367,Nicaragua,Latin America & Caribbean,2017,3.3,6.650689
+368,Nicaragua,Latin America & Caribbean,2018,5.2,10.376991
+369,Nicaragua,Latin America & Caribbean,2019,5.202,7.7281795
+370,Nicaragua,Latin America & Caribbean,2020,0.0,0.0
+371,Nicaragua,Latin America & Caribbean,2021,5.932,11.006432
+372,Panama,Latin America & Caribbean,1991,6.064,11.750395
+373,Panama,Latin America & Caribbean,1992,6.085,12.175157
+374,Panama,Latin America & Caribbean,1993,6.123,11.812083
+375,Panama,Latin America & Caribbean,1994,6.11,12.13654
+376,Panama,Latin America & Caribbean,1995,6.062,13.880364
+377,Panama,Latin America & Caribbean,1996,6.038,8.947883
+378,Panama,Latin America & Caribbean,1997,6.016,11.138647
+379,Panama,Latin America & Caribbean,1998,6.029,9.739439
+380,Panama,Latin America & Caribbean,1999,6.067,9.683601
+381,Panama,Latin America & Caribbean,2000,6.051,9.960917
+382,Panama,Latin America & Caribbean,2001,6.042,9.9966545
+383,Panama,Latin America & Caribbean,2002,5.995,12.047458
+384,Panama,Latin America & Caribbean,2003,6.007,10.592128
+385,Panama,Latin America & Caribbean,2004,5.939,9.496469
+386,Panama,Latin America & Caribbean,2005,5.949,11.010724
+387,Panama,Latin America & Caribbean,2006,5.864,6.560641
+388,Panama,Latin America & Caribbean,2007,5.844,8.130285
+389,Panama,Latin America & Caribbean,2008,5.908,14.10475
+390,Panama,Latin America & Caribbean,2009,6.011,15.7894335
+391,Panama,Latin America & Caribbean,2010,5.875,12.694496
+392,Panama,Latin America & Caribbean,2011,4.05,14.883397
+393,Panama,Latin America & Caribbean,2012,3.717,16.964672
+394,Panama,Latin America & Caribbean,2013,3.703,17.348953
+395,Panama,Latin America & Caribbean,2014,4.419,15.531814
+396,Panama,Latin America & Caribbean,2015,4.368,11.90266
+397,Panama,Latin America & Caribbean,2016,4.759,10.058772
+398,Panama,Latin America & Caribbean,2017,5.392,9.228374
+399,Panama,Latin America & Caribbean,2018,5.218,9.627263
+400,Panama,Latin America & Caribbean,2019,6.33,11.34073
+401,Panama,Latin America & Caribbean,2020,14.114,11.64308
+402,Panama,Latin America & Caribbean,2021,10.301,12.639997
+403,Puerto Rico,Latin America & Caribbean,1991,16.18,22.831118
+404,Puerto Rico,Latin America & Caribbean,1992,16.93,23.916101
+405,Puerto Rico,Latin America & Caribbean,1993,16.91,26.172718
+406,Puerto Rico,Latin America & Caribbean,1994,14.6,27.069317
+407,Puerto Rico,Latin America & Caribbean,1995,13.93,23.320175
+408,Puerto Rico,Latin America & Caribbean,1996,13.64,23.25325
+409,Puerto Rico,Latin America & Caribbean,1997,13.8,19.257788
+410,Puerto Rico,Latin America & Caribbean,1998,13.46,17.224806
+411,Puerto Rico,Latin America & Caribbean,1999,11.81,15.563837
+412,Puerto Rico,Latin America & Caribbean,2000,10.08,19.17897
+413,Puerto Rico,Latin America & Caribbean,2001,11.4,20.928303
+414,Puerto Rico,Latin America & Caribbean,2002,11.94,21.405598
+415,Puerto Rico,Latin America & Caribbean,2003,11.78,21.382107
+416,Puerto Rico,Latin America & Caribbean,2004,10.31,22.085194
+417,Puerto Rico,Latin America & Caribbean,2005,11.35,21.678812
+418,Puerto Rico,Latin America & Caribbean,2006,11.01,20.651136
+419,Puerto Rico,Latin America & Caribbean,2007,10.93,20.500921
+420,Puerto Rico,Latin America & Caribbean,2008,11.48,23.259407
+421,Puerto Rico,Latin America & Caribbean,2009,15.0,25.568747
+422,Puerto Rico,Latin America & Caribbean,2010,16.1,27.703648
+423,Puerto Rico,Latin America & Caribbean,2011,15.7,31.93725
+424,Puerto Rico,Latin America & Caribbean,2012,14.5,27.747494
+425,Puerto Rico,Latin America & Caribbean,2013,14.3,25.56004
+426,Puerto Rico,Latin America & Caribbean,2014,13.9,19.775223
+427,Puerto Rico,Latin America & Caribbean,2015,12.0,17.556225
+428,Puerto Rico,Latin America & Caribbean,2016,11.8,20.508396
+429,Puerto Rico,Latin America & Caribbean,2017,10.8,21.625423
+430,Puerto Rico,Latin America & Caribbean,2018,9.2,20.004404
+431,Puerto Rico,Latin America & Caribbean,2019,8.3,19.223255
+432,Puerto Rico,Latin America & Caribbean,2020,8.89,16.994926
+433,Puerto Rico,Latin America & Caribbean,2021,0.0,0.0
+434,Uruguay,Latin America & Caribbean,1991,8.95,6.1874595
+435,Uruguay,Latin America & Caribbean,1992,8.96,5.770941
+436,Uruguay,Latin America & Caribbean,1993,0.0,0.0
+437,Uruguay,Latin America & Caribbean,1994,0.0,0.0
+438,Uruguay,Latin America & Caribbean,1995,10.02,5.9533086
+439,Uruguay,Latin America & Caribbean,1996,11.93,6.353371
+440,Uruguay,Latin America & Caribbean,1997,11.44,7.4882846
+441,Uruguay,Latin America & Caribbean,1998,9.36,7.4785075
+442,Uruguay,Latin America & Caribbean,1999,10.47,6.5874486
+443,Uruguay,Latin America & Caribbean,2000,12.63,6.500164
+444,Uruguay,Latin America & Caribbean,2001,15.05,6.6041813
+445,Uruguay,Latin America & Caribbean,2002,16.65,6.986364
+446,Uruguay,Latin America & Caribbean,2003,16.66,5.9512978
+447,Uruguay,Latin America & Caribbean,2004,12.98,6.0353656
+448,Uruguay,Latin America & Caribbean,2005,12.01,5.726919
+449,Uruguay,Latin America & Caribbean,2006,10.84,6.080158
+450,Uruguay,Latin America & Caribbean,2007,9.4,5.828188
+451,Uruguay,Latin America & Caribbean,2008,8.03,6.624451
+452,Uruguay,Latin America & Caribbean,2009,7.74,6.758058
+453,Uruguay,Latin America & Caribbean,2010,7.16,6.1145644
+454,Uruguay,Latin America & Caribbean,2011,6.31,5.919734
+455,Uruguay,Latin America & Caribbean,2012,6.45,7.920187
+456,Uruguay,Latin America & Caribbean,2013,6.44,7.689622
+457,Uruguay,Latin America & Caribbean,2014,6.55,7.901732
+458,Uruguay,Latin America & Caribbean,2015,7.49,8.610512
+459,Uruguay,Latin America & Caribbean,2016,7.84,7.8212743
+460,Uruguay,Latin America & Caribbean,2017,7.89,8.269533
+461,Uruguay,Latin America & Caribbean,2018,8.34,12.284647
+462,Uruguay,Latin America & Caribbean,2019,8.73,11.492213
+463,Uruguay,Latin America & Caribbean,2020,10.33,9.856853
+464,Uruguay,Latin America & Caribbean,2021,9.29,8.901836
+465,United States,North America,1991,6.8,9.819917
+466,United States,North America,1992,7.5,9.311245
+467,United States,North America,1993,6.9,9.477557
+468,United States,North America,1994,6.12,8.893766
+469,United States,North America,1995,5.65,8.132935
+470,United States,North America,1996,5.45,7.303399
+471,United States,North America,1997,5.0,6.6843996
+472,United States,North America,1998,4.51,6.1536784
+473,United States,North America,1999,4.22,5.5598226
+474,United States,North America,2000,3.99,5.5191503
+475,United States,North America,2001,4.73,6.667239
+476,United States,North America,2002,5.78,5.628225
+477,United States,North America,2003,0.0,0.0
+478,United States,North America,2004,0.0,0.0
+479,United States,North America,2005,0.0,0.0
+480,United States,North America,2006,4.62,5.774419
+481,United States,North America,2007,4.62,5.6575966
+482,United States,North America,2008,5.78,5.386089
+483,United States,North America,2009,9.25,4.9913774
+484,United States,North America,2010,9.63,4.7309804
+485,United States,North America,2011,8.95,4.6709437
+486,United States,North America,2012,8.07,4.6915956
+487,United States,North America,2013,7.37,4.483442
+488,United States,North America,2014,6.17,4.398294
+489,United States,North America,2015,5.28,4.892982
+490,United States,North America,2016,4.87,5.3216558
+491,United States,North America,2017,4.36,5.2439237
+492,United States,North America,2018,3.9,4.929848
+493,United States,North America,2019,3.67,4.9859467
+494,United States,North America,2020,8.05,6.420751
+495,United States,North America,2021,5.35,6.8074665
+496,Cuba,Latin America & Caribbean,1991,0.0,0.0
+497,Cuba,Latin America & Caribbean,1992,8.056,6.240873
+498,Cuba,Latin America & Caribbean,1993,8.255,7.3978868
+499,Cuba,Latin America & Caribbean,1994,8.146,8.275768
+500,Cuba,Latin America & Caribbean,1995,8.27,7.7974114
+501,Cuba,Latin America & Caribbean,1996,7.61,6.6769857
+502,Cuba,Latin America & Caribbean,1997,7.1,6.792064
+503,Cuba,Latin America & Caribbean,1998,6.23,7.413612
+504,Cuba,Latin America & Caribbean,1999,6.26,5.501308
+505,Cuba,Latin America & Caribbean,2000,5.45,5.2855306
+506,Cuba,Latin America & Caribbean,2001,4.08,5.4313054
+507,Cuba,Latin America & Caribbean,2002,3.31,5.9176097
+508,Cuba,Latin America & Caribbean,2003,2.33,5.7325435
+509,Cuba,Latin America & Caribbean,2004,1.85,5.8795786
+510,Cuba,Latin America & Caribbean,2005,1.95,6.082101
+511,Cuba,Latin America & Caribbean,2006,1.91,5.1151667
+512,Cuba,Latin America & Caribbean,2007,1.79,5.0399795
+513,Cuba,Latin America & Caribbean,2008,1.58,4.5669756
+514,Cuba,Latin America & Caribbean,2009,1.67,5.0074515
+515,Cuba,Latin America & Caribbean,2010,2.5,4.4728193
+516,Cuba,Latin America & Caribbean,2011,3.18,4.726203
+517,Cuba,Latin America & Caribbean,2012,3.46,5.4910607
+518,Cuba,Latin America & Caribbean,2013,3.29,5.953233
+519,Cuba,Latin America & Caribbean,2014,2.7,5.2947283
+520,Cuba,Latin America & Caribbean,2015,2.4,5.458605
+521,Cuba,Latin America & Caribbean,2016,2.0,5.043197
+522,Cuba,Latin America & Caribbean,2017,1.7,4.5517077
+523,Cuba,Latin America & Caribbean,2018,1.7,4.334299
+524,Cuba,Latin America & Caribbean,2019,1.2,4.4182506
+525,Cuba,Latin America & Caribbean,2020,0.0,0.0
+526,Cuba,Latin America & Caribbean,2021,0.0,0.0
+527,Guatemala,Latin America & Caribbean,1991,0.0,0.0
+528,Guatemala,Latin America & Caribbean,1992,2.638,27.869928
+529,Guatemala,Latin America & Caribbean,1993,2.669,32.862526
+530,Guatemala,Latin America & Caribbean,1994,2.676,32.08544
+531,Guatemala,Latin America & Caribbean,1995,2.664,31.457798
+532,Guatemala,Latin America & Caribbean,1996,2.723,34.03781
+533,Guatemala,Latin America & Caribbean,1997,2.699,36.6608
+534,Guatemala,Latin America & Caribbean,1998,2.694,29.595766
+535,Guatemala,Latin America & Caribbean,1999,2.733,23.160458
+536,Guatemala,Latin America & Caribbean,2000,2.75,24.7446
+537,Guatemala,Latin America & Caribbean,2001,2.793,26.896059
+538,Guatemala,Latin America & Caribbean,2002,2.767,29.544691
+539,Guatemala,Latin America & Caribbean,2003,2.81,33.70589
+540,Guatemala,Latin America & Caribbean,2004,2.97,35.06728
+541,Guatemala,Latin America & Caribbean,2005,3.053,40.64628
+542,Guatemala,Latin America & Caribbean,2006,3.082,43.87729
+543,Guatemala,Latin America & Caribbean,2007,3.14,42.207535
+544,Guatemala,Latin America & Caribbean,2008,3.314,45.00892
+545,Guatemala,Latin America & Caribbean,2009,3.489,45.569904
+546,Guatemala,Latin America & Caribbean,2010,3.5,40.981575
+547,Guatemala,Latin America & Caribbean,2011,3.095,38.298565
+548,Guatemala,Latin America & Caribbean,2012,2.76,34.075195
+549,Guatemala,Latin America & Caribbean,2013,3.02,33.42484
+550,Guatemala,Latin America & Caribbean,2014,2.72,33.429344
+551,Guatemala,Latin America & Caribbean,2015,0.0,0.0
+552,Guatemala,Latin America & Caribbean,2016,0.0,0.0
+553,Guatemala,Latin America & Caribbean,2017,2.46,32.78298
+554,Guatemala,Latin America & Caribbean,2018,2.28,28.895842
+555,Guatemala,Latin America & Caribbean,2019,2.19,25.645466
+556,Guatemala,Latin America & Caribbean,2020,3.359,18.960165
+557,Guatemala,Latin America & Caribbean,2021,2.942,19.990364
+558,El Salvador,Latin America & Caribbean,1991,0.0,0.0
+559,El Salvador,Latin America & Caribbean,1992,0.0,0.0
+560,El Salvador,Latin America & Caribbean,1993,0.0,0.0
+561,El Salvador,Latin America & Caribbean,1994,7.68,134.77866
+562,El Salvador,Latin America & Caribbean,1995,7.65,138.77399
+563,El Salvador,Latin America & Caribbean,1996,7.68,117.16123
+564,El Salvador,Latin America & Caribbean,1997,7.98,112.50055
+565,El Salvador,Latin America & Caribbean,1998,7.1,94.88397
+566,El Salvador,Latin America & Caribbean,1999,7.3,64.90709
+567,El Salvador,Latin America & Caribbean,2000,6.96,59.595715
+568,El Salvador,Latin America & Caribbean,2001,6.96,59.95229
+569,El Salvador,Latin America & Caribbean,2002,6.2,47.161377
+570,El Salvador,Latin America & Caribbean,2003,6.9,55.684162
+571,El Salvador,Latin America & Caribbean,2004,6.8,64.56631
+572,El Salvador,Latin America & Caribbean,2005,7.22,64.29476
+573,El Salvador,Latin America & Caribbean,2006,6.57,65.07651
+574,El Salvador,Latin America & Caribbean,2007,6.41,57.85778
+575,El Salvador,Latin America & Caribbean,2008,5.88,52.38873
+576,El Salvador,Latin America & Caribbean,2009,7.33,71.939995
+577,El Salvador,Latin America & Caribbean,2010,4.89,65.210625
+578,El Salvador,Latin America & Caribbean,2011,4.3,71.21968
+579,El Salvador,Latin America & Caribbean,2012,3.84,42.10158
+580,El Salvador,Latin America & Caribbean,2013,3.69,40.62634
+581,El Salvador,Latin America & Caribbean,2014,4.15,63.144913
+582,El Salvador,Latin America & Caribbean,2015,4.0,106.8196
+583,El Salvador,Latin America & Caribbean,2016,4.42,84.40911
+584,El Salvador,Latin America & Caribbean,2017,4.39,63.223526
+585,El Salvador,Latin America & Caribbean,2018,4.01,53.311302
+586,El Salvador,Latin America & Caribbean,2019,4.17,38.183395
+587,El Salvador,Latin America & Caribbean,2020,5.02,21.310303
+588,El Salvador,Latin America & Caribbean,2021,4.35,18.165499
+589,Belize,Latin America & Caribbean,1991,0.0,0.0
+590,Belize,Latin America & Caribbean,1992,0.0,0.0
+591,Belize,Latin America & Caribbean,1993,0.0,0.0
+592,Belize,Latin America & Caribbean,1994,0.0,0.0
+593,Belize,Latin America & Caribbean,1995,0.0,0.0
+594,Belize,Latin America & Caribbean,1996,0.0,0.0
+595,Belize,Latin America & Caribbean,1997,0.0,0.0
+596,Belize,Latin America & Caribbean,1998,0.0,0.0
+597,Belize,Latin America & Caribbean,1999,0.0,0.0
+598,Belize,Latin America & Caribbean,2000,10.869,17.054483
+599,Belize,Latin America & Caribbean,2001,9.07,25.796103
+600,Belize,Latin America & Caribbean,2002,10.04,33.9861
+601,Belize,Latin America & Caribbean,2003,10.257,25.37898
+602,Belize,Latin America & Caribbean,2004,10.594,29.030403
+603,Belize,Latin America & Caribbean,2005,10.91,28.88988
+604,Belize,Latin America & Caribbean,2006,9.39,31.863733
+605,Belize,Latin America & Caribbean,2007,8.51,32.640865
+606,Belize,Latin America & Caribbean,2008,8.18,33.696304
+607,Belize,Latin America & Caribbean,2009,8.244,30.874954
+608,Belize,Latin America & Caribbean,2010,8.244,40.048866
+609,Belize,Latin America & Caribbean,2011,8.284,37.628494
+610,Belize,Latin America & Caribbean,2012,8.308,43.019176
+611,Belize,Latin America & Caribbean,2013,8.35,28.721668
+612,Belize,Latin America & Caribbean,2014,8.24,34.909958
+613,Belize,Latin America & Caribbean,2015,7.58,33.067406
+614,Belize,Latin America & Caribbean,2016,7.0,37.57019
+615,Belize,Latin America & Caribbean,2017,6.6,37.89764
+616,Belize,Latin America & Caribbean,2018,7.814,37.42809
+617,Belize,Latin America & Caribbean,2019,9.05,34.43889
+618,Belize,Latin America & Caribbean,2020,10.788,25.827984
+619,Belize,Latin America & Caribbean,2021,10.29,31.247578
+620,Paraguay,Latin America & Caribbean,1991,0.0,0.0
+621,Paraguay,Latin America & Caribbean,1992,0.0,0.0
+622,Paraguay,Latin America & Caribbean,1993,0.0,0.0
+623,Paraguay,Latin America & Caribbean,1994,0.0,0.0
+624,Paraguay,Latin America & Caribbean,1995,0.0,0.0
+625,Paraguay,Latin America & Caribbean,1996,0.0,0.0
+626,Paraguay,Latin America & Caribbean,1997,0.0,0.0
+627,Paraguay,Latin America & Caribbean,1998,0.0,0.0
+628,Paraguay,Latin America & Caribbean,1999,0.0,0.0
+629,Paraguay,Latin America & Caribbean,2000,7.61,19.41911
+630,Paraguay,Latin America & Caribbean,2001,6.21,25.213272
+631,Paraguay,Latin America & Caribbean,2002,9.39,25.952837
+632,Paraguay,Latin America & Caribbean,2003,6.81,24.004091
+633,Paraguay,Latin America & Caribbean,2004,6.51,22.321415
+634,Paraguay,Latin America & Caribbean,2005,4.82,16.195358
+635,Paraguay,Latin America & Caribbean,2006,5.28,13.406388
+636,Paraguay,Latin America & Caribbean,2007,4.71,14.006794
+637,Paraguay,Latin America & Caribbean,2008,4.42,14.756035
+638,Paraguay,Latin America & Caribbean,2009,5.46,14.397006
+639,Paraguay,Latin America & Caribbean,2010,4.57,12.845377
+640,Paraguay,Latin America & Caribbean,2011,4.67,11.242418
+641,Paraguay,Latin America & Caribbean,2012,4.09,10.95669
+642,Paraguay,Latin America & Caribbean,2013,4.38,10.057193
+643,Paraguay,Latin America & Caribbean,2014,5.03,9.489845
+644,Paraguay,Latin America & Caribbean,2015,4.56,9.987132
+645,Paraguay,Latin America & Caribbean,2016,5.25,10.675619
+646,Paraguay,Latin America & Caribbean,2017,4.61,8.512441
+647,Paraguay,Latin America & Caribbean,2018,6.22,7.713405
+648,Paraguay,Latin America & Caribbean,2019,6.59,8.483886
+649,Paraguay,Latin America & Caribbean,2020,7.55,7.2672935
+650,Paraguay,Latin America & Caribbean,2021,7.31,7.8313804
+651,Suriname,Latin America & Caribbean,1991,0.0,0.0
+652,Suriname,Latin America & Caribbean,1992,0.0,0.0
+653,Suriname,Latin America & Caribbean,1993,0.0,0.0
+654,Suriname,Latin America & Caribbean,1994,0.0,0.0
+655,Suriname,Latin America & Caribbean,1995,0.0,0.0
+656,Suriname,Latin America & Caribbean,1996,0.0,0.0
+657,Suriname,Latin America & Caribbean,1997,0.0,0.0
+658,Suriname,Latin America & Caribbean,1998,0.0,0.0
+659,Suriname,Latin America & Caribbean,1999,0.0,0.0
+660,Suriname,Latin America & Caribbean,2000,12.741,14.196286
+661,Suriname,Latin America & Caribbean,2001,11.913,16.20867
+662,Suriname,Latin America & Caribbean,2002,11.143,11.49968
+663,Suriname,Latin America & Caribbean,2003,10.303,11.909961
+664,Suriname,Latin America & Caribbean,2004,9.49,9.009503
+665,Suriname,Latin America & Caribbean,2005,9.374,13.366407
+666,Suriname,Latin America & Caribbean,2006,9.19,11.876883
+667,Suriname,Latin America & Caribbean,2007,9.031,8.523599
+668,Suriname,Latin America & Caribbean,2008,8.875,8.0533695
+669,Suriname,Latin America & Caribbean,2009,0.0,0.0
+670,Suriname,Latin America & Caribbean,2010,0.0,0.0
+671,Suriname,Latin America & Caribbean,2011,0.0,0.0
+672,Suriname,Latin America & Caribbean,2012,0.0,0.0
+673,Suriname,Latin America & Caribbean,2013,6.6,5.1423273
+674,Suriname,Latin America & Caribbean,2014,6.94,5.617169
+675,Suriname,Latin America & Caribbean,2015,7.22,5.9081626
+676,Suriname,Latin America & Caribbean,2016,7.92,7.051301
+677,Suriname,Latin America & Caribbean,2017,7.91,6.127039
+678,Suriname,Latin America & Caribbean,2018,7.932,6.4003825
+679,Suriname,Latin America & Caribbean,2019,8.029,4.997497
+680,Suriname,Latin America & Caribbean,2020,9.524,9.059985
+681,Suriname,Latin America & Caribbean,2021,9.078,5.7097692
+682,Trinidad and Tobago,Latin America & Caribbean,1991,0.0,0.0
+683,Trinidad and Tobago,Latin America & Caribbean,1992,0.0,0.0
+684,Trinidad and Tobago,Latin America & Caribbean,1993,0.0,0.0
+685,Trinidad and Tobago,Latin America & Caribbean,1994,0.0,0.0
+686,Trinidad and Tobago,Latin America & Caribbean,1995,0.0,0.0
+687,Trinidad and Tobago,Latin America & Caribbean,1996,0.0,0.0
+688,Trinidad and Tobago,Latin America & Caribbean,1997,0.0,0.0
+689,Trinidad and Tobago,Latin America & Caribbean,1998,0.0,0.0
+690,Trinidad and Tobago,Latin America & Caribbean,1999,0.0,0.0
+691,Trinidad and Tobago,Latin America & Caribbean,2000,12.1,9.00764
+692,Trinidad and Tobago,Latin America & Caribbean,2001,10.88,11.280721
+693,Trinidad and Tobago,Latin America & Caribbean,2002,10.39,12.704654
+694,Trinidad and Tobago,Latin America & Caribbean,2003,10.48,16.918499
+695,Trinidad and Tobago,Latin America & Caribbean,2004,8.33,19.10118
+696,Trinidad and Tobago,Latin America & Caribbean,2005,7.95,28.194208
+697,Trinidad and Tobago,Latin America & Caribbean,2006,6.27,26.944204
+698,Trinidad and Tobago,Latin America & Caribbean,2007,5.54,28.23389
+699,Trinidad and Tobago,Latin America & Caribbean,2008,4.63,39.273335
+700,Trinidad and Tobago,Latin America & Caribbean,2009,5.28,36.183502
+701,Trinidad and Tobago,Latin America & Caribbean,2010,4.03,33.53906
+702,Trinidad and Tobago,Latin America & Caribbean,2011,3.43,24.788383
+703,Trinidad and Tobago,Latin America & Caribbean,2012,3.72,26.566431
+704,Trinidad and Tobago,Latin America & Caribbean,2013,2.68,28.249578
+705,Trinidad and Tobago,Latin America & Caribbean,2014,2.48,27.918308
+706,Trinidad and Tobago,Latin America & Caribbean,2015,2.43,28.763645
+707,Trinidad and Tobago,Latin America & Caribbean,2016,3.21,31.510971
+708,Trinidad and Tobago,Latin America & Caribbean,2017,3.309,33.477455
+709,Trinidad and Tobago,Latin America & Caribbean,2018,3.405,34.358803
+710,Trinidad and Tobago,Latin America & Caribbean,2019,3.52,35.461575
+711,Trinidad and Tobago,Latin America & Caribbean,2020,4.21,26.28204
+712,Trinidad and Tobago,Latin America & Caribbean,2021,4.45,29.364283
+713,Argentina,Latin America & Caribbean,1991,0.0,0.0
+714,Argentina,Latin America & Caribbean,1992,0.0,0.0
+715,Argentina,Latin America & Caribbean,1993,0.0,0.0
+716,Argentina,Latin America & Caribbean,1994,0.0,0.0
+717,Argentina,Latin America & Caribbean,1995,0.0,0.0
+718,Argentina,Latin America & Caribbean,1996,0.0,0.0
+719,Argentina,Latin America & Caribbean,1997,0.0,0.0
+720,Argentina,Latin America & Caribbean,1998,0.0,0.0
+721,Argentina,Latin America & Caribbean,1999,0.0,0.0
+722,Argentina,Latin America & Caribbean,2000,0.0,0.0
+723,Argentina,Latin America & Caribbean,2001,17.32,8.348343
+724,Argentina,Latin America & Caribbean,2002,19.59,9.423247
+725,Argentina,Latin America & Caribbean,2003,15.36,7.7511554
+726,Argentina,Latin America & Caribbean,2004,13.52,6.046219
+727,Argentina,Latin America & Caribbean,2005,11.51,5.6257277
+728,Argentina,Latin America & Caribbean,2006,10.08,5.347438
+729,Argentina,Latin America & Caribbean,2007,8.47,5.364114
+730,Argentina,Latin America & Caribbean,2008,7.84,5.8872066
+731,Argentina,Latin America & Caribbean,2009,8.65,6.4938993
+732,Argentina,Latin America & Caribbean,2010,7.71,5.8004694
+733,Argentina,Latin America & Caribbean,2011,7.18,6.0475802
+734,Argentina,Latin America & Caribbean,2012,7.22,6.3119206
+735,Argentina,Latin America & Caribbean,2013,7.1,7.247288
+736,Argentina,Latin America & Caribbean,2014,7.27,7.53782
+737,Argentina,Latin America & Caribbean,2015,7.524,6.558466
+738,Argentina,Latin America & Caribbean,2016,8.109,6.011234
+739,Argentina,Latin America & Caribbean,2017,8.35,5.259381
+740,Argentina,Latin America & Caribbean,2018,9.22,5.367726
+741,Argentina,Latin America & Caribbean,2019,9.84,5.155823
+742,Argentina,Latin America & Caribbean,2020,11.46,5.3668137
+743,Argentina,Latin America & Caribbean,2021,8.74,4.6226788
+744,Chile,Latin America & Caribbean,1991,0.0,0.0
+745,Chile,Latin America & Caribbean,1992,0.0,0.0
+746,Chile,Latin America & Caribbean,1993,0.0,0.0
+747,Chile,Latin America & Caribbean,1994,0.0,0.0
+748,Chile,Latin America & Caribbean,1995,0.0,0.0
+749,Chile,Latin America & Caribbean,1996,0.0,0.0
+750,Chile,Latin America & Caribbean,1997,0.0,0.0
+751,Chile,Latin America & Caribbean,1998,0.0,0.0
+752,Chile,Latin America & Caribbean,1999,0.0,0.0
+753,Chile,Latin America & Caribbean,2000,0.0,0.0
+754,Chile,Latin America & Caribbean,2001,0.0,0.0
+755,Chile,Latin America & Caribbean,2002,0.0,0.0
+756,Chile,Latin America & Caribbean,2003,9.77,3.2347336
+757,Chile,Latin America & Caribbean,2004,0.0,0.0
+758,Chile,Latin America & Caribbean,2005,9.34,3.5609825
+759,Chile,Latin America & Caribbean,2006,9.02,3.6119704
+760,Chile,Latin America & Caribbean,2007,8.43,3.734343
+761,Chile,Latin America & Caribbean,2008,9.29,3.529102
+762,Chile,Latin America & Caribbean,2009,11.31,3.742549
+763,Chile,Latin America & Caribbean,2010,8.41,3.181574
+764,Chile,Latin America & Caribbean,2011,7.32,3.7033644
+765,Chile,Latin America & Caribbean,2012,6.64,2.5026278
+766,Chile,Latin America & Caribbean,2013,6.2,3.175342
+767,Chile,Latin America & Caribbean,2014,6.65,2.4763799
+768,Chile,Latin America & Caribbean,2015,6.49,2.3446956
+769,Chile,Latin America & Caribbean,2016,6.73,3.428468
+770,Chile,Latin America & Caribbean,2017,6.95,4.240938
+771,Chile,Latin America & Caribbean,2018,7.21,4.4114227
+772,Chile,Latin America & Caribbean,2019,7.27,3.9444344
+773,Chile,Latin America & Caribbean,2020,11.14,4.797849
+774,Chile,Latin America & Caribbean,2021,9.35,3.6320386
+775,Haiti,Latin America & Caribbean,1991,0.0,0.0
+776,Haiti,Latin America & Caribbean,1992,0.0,0.0
+777,Haiti,Latin America & Caribbean,1993,0.0,0.0
+778,Haiti,Latin America & Caribbean,1994,0.0,0.0
+779,Haiti,Latin America & Caribbean,1995,0.0,0.0
+780,Haiti,Latin America & Caribbean,1996,0.0,0.0
+781,Haiti,Latin America & Caribbean,1997,0.0,0.0
+782,Haiti,Latin America & Caribbean,1998,0.0,0.0
+783,Haiti,Latin America & Caribbean,1999,0.0,0.0
+784,Haiti,Latin America & Caribbean,2000,0.0,0.0
+785,Haiti,Latin America & Caribbean,2001,0.0,0.0
+786,Haiti,Latin America & Caribbean,2002,0.0,0.0
+787,Haiti,Latin America & Caribbean,2003,0.0,0.0
+788,Haiti,Latin America & Caribbean,2004,0.0,0.0
+789,Haiti,Latin America & Caribbean,2005,0.0,0.0
+790,Haiti,Latin America & Caribbean,2006,0.0,0.0
+791,Haiti,Latin America & Caribbean,2007,16.8,5.1587834
+792,Haiti,Latin America & Caribbean,2008,16.298,5.20091
+793,Haiti,Latin America & Caribbean,2009,15.658,6.145538
+794,Haiti,Latin America & Caribbean,2010,15.383,6.878068
+795,Haiti,Latin America & Caribbean,2011,14.56,9.181951
+796,Haiti,Latin America & Caribbean,2012,14.1,10.219083
+797,Haiti,Latin America & Caribbean,2013,13.958,10.125515
+798,Haiti,Latin America & Caribbean,2014,13.96,9.411548
+799,Haiti,Latin America & Caribbean,2015,13.888,10.138438
+800,Haiti,Latin America & Caribbean,2016,13.852,9.595058
+801,Haiti,Latin America & Caribbean,2017,0.0,0.0
+802,Haiti,Latin America & Caribbean,2018,13.755,6.746927
+803,Haiti,Latin America & Caribbean,2019,0.0,0.0
+804,Haiti,Latin America & Caribbean,2020,15.085,11.32062
+805,Haiti,Latin America & Caribbean,2021,15.017,13.007129
+806,Peru,Latin America & Caribbean,1991,0.0,0.0
+807,Peru,Latin America & Caribbean,1992,0.0,0.0
+808,Peru,Latin America & Caribbean,1993,0.0,0.0
+809,Peru,Latin America & Caribbean,1994,0.0,0.0
+810,Peru,Latin America & Caribbean,1995,0.0,0.0
+811,Peru,Latin America & Caribbean,1996,0.0,0.0
+812,Peru,Latin America & Caribbean,1997,0.0,0.0
+813,Peru,Latin America & Caribbean,1998,0.0,0.0
+814,Peru,Latin America & Caribbean,1999,0.0,0.0
+815,Peru,Latin America & Caribbean,2000,0.0,0.0
+816,Peru,Latin America & Caribbean,2001,0.0,0.0
+817,Peru,Latin America & Caribbean,2002,0.0,0.0
+818,Peru,Latin America & Caribbean,2003,0.0,0.0
+819,Peru,Latin America & Caribbean,2004,0.0,0.0
+820,Peru,Latin America & Caribbean,2005,0.0,0.0
+821,Peru,Latin America & Caribbean,2006,0.0,0.0
+822,Peru,Latin America & Caribbean,2007,0.0,0.0
+823,Peru,Latin America & Caribbean,2008,0.0,0.0
+824,Peru,Latin America & Caribbean,2009,0.0,0.0
+825,Peru,Latin America & Caribbean,2010,0.0,0.0
+826,Peru,Latin America & Caribbean,2011,3.48,5.4854984
+827,Peru,Latin America & Caribbean,2012,3.24,6.615217
+828,Peru,Latin America & Caribbean,2013,3.57,6.701331
+829,Peru,Latin America & Caribbean,2014,3.21,6.8393073
+830,Peru,Latin America & Caribbean,2015,3.27,7.316391
+831,Peru,Latin America & Caribbean,2016,3.74,7.8213387
+832,Peru,Latin America & Caribbean,2017,3.69,7.868887
+833,Peru,Latin America & Caribbean,2018,3.49,7.613974
+834,Peru,Latin America & Caribbean,2019,3.38,7.2658343
+835,Peru,Latin America & Caribbean,2020,7.18,5.7138987
+836,Peru,Latin America & Caribbean,2021,0.0,0.0
+837,Bolivia,Latin America & Caribbean,1991,0.0,0.0
+838,Bolivia,Latin America & Caribbean,1992,0.0,0.0
+839,Bolivia,Latin America & Caribbean,1993,0.0,0.0
+840,Bolivia,Latin America & Caribbean,1994,0.0,0.0
+841,Bolivia,Latin America & Caribbean,1995,0.0,0.0
+842,Bolivia,Latin America & Caribbean,1996,0.0,0.0
+843,Bolivia,Latin America & Caribbean,1997,0.0,0.0
+844,Bolivia,Latin America & Caribbean,1998,0.0,0.0
+845,Bolivia,Latin America & Caribbean,1999,0.0,0.0
+846,Bolivia,Latin America & Caribbean,2000,0.0,0.0
+847,Bolivia,Latin America & Caribbean,2001,0.0,0.0
+848,Bolivia,Latin America & Caribbean,2002,0.0,0.0
+849,Bolivia,Latin America & Caribbean,2003,0.0,0.0
+850,Bolivia,Latin America & Caribbean,2004,0.0,0.0
+851,Bolivia,Latin America & Caribbean,2005,0.0,0.0
+852,Bolivia,Latin America & Caribbean,2006,0.0,0.0
+853,Bolivia,Latin America & Caribbean,2007,0.0,0.0
+854,Bolivia,Latin America & Caribbean,2008,0.0,0.0
+855,Bolivia,Latin America & Caribbean,2009,0.0,0.0
+856,Bolivia,Latin America & Caribbean,2010,0.0,0.0
+857,Bolivia,Latin America & Caribbean,2011,0.0,0.0
+858,Bolivia,Latin America & Caribbean,2012,0.0,0.0
+859,Bolivia,Latin America & Caribbean,2013,0.0,0.0
+860,Bolivia,Latin America & Caribbean,2014,0.0,0.0
+861,Bolivia,Latin America & Caribbean,2015,3.11,4.896265
+862,Bolivia,Latin America & Caribbean,2016,3.5,5.7000723
+863,Bolivia,Latin America & Caribbean,2017,3.65,6.5322704
+864,Bolivia,Latin America & Caribbean,2018,3.52,4.945332
+865,Bolivia,Latin America & Caribbean,2019,3.68,4.2199774
+866,Bolivia,Latin America & Caribbean,2020,7.9,3.4935853
+867,Bolivia,Latin America & Caribbean,2021,5.09,3.4935303
